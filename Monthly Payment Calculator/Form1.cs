@@ -132,6 +132,8 @@ namespace Monthly_Payment_Calculator
         }
 
         private void exitBtn_Click(object sender, EventArgs e) {
+            // GitHub push
+            MessageBox.Show("Hey I pushed this - Logan Miller.");
             // Close the form
             this.Close();
         }
